@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, eu sou Caio 👋
 
-<!--
-**caiooozs/caiooozs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/caio-cesar-2048a1244/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caaaioxl/)
 
-Here are some ideas to get you started:
+![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiooozs&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies i use on a daily basis 💻
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiooozs&layout=compact)
+
+## Email para contato
+📧 caiocesarc200@gmail.com
