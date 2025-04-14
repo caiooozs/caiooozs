@@ -8,7 +8,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiooozs&layout=compact)
 
  ### | Tecnologias 🛠️
- <div style="display: flex; gap: 50px;">
+ <div style="display: flex; padding: 12px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" />
