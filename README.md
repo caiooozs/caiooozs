@@ -5,11 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/caioccesar/)
  <br/>
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiooozs&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiooozs&layout=compact&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-</div>
-
  ### | Skills 🛠️
  <div style="display: flex; gap: 12px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35px" />
